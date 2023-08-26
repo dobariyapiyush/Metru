@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Test Video Recording</string>
+
+    // Permission
+    <string name="permission_rationale_title">Permissions Required</string>
+    <string name="permission_rationale_message">Please grant the necessary permissions to continue.</string>
+
+    // Popup Button
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    // Start Page
+    <string name="get_started">Get Started</string>
+    <string name="you_got_it">You got it!</string>
+    <string name="they_just_cant_see_it">They just can\'t see it!</string>
+    <string name="description">Show what you are made of!\nConvince with short video statements of your attitude and your will!\nShow that you are the right one!</string>
+
+    // Main Page
+    <string name="timer5Second">5</string>
+    <string name="timer30Second">00:30</string>
+    <string name="number_1">Question number 1</string>
+    <string name="question">Why are you the right\nperson for the job?</string>
+    <string name="result">Would you like to see...\nHow you have performed?</string>
+    <string name="recording">Click the button below to play the recording.</string>
+
+    <string name="start">Start Recording</string>
+    <string name="stop">Stop Recording</string>
+    <string name="play">Play Recording</string>
+    <string name="pause">Pause Recording</string>
+    <string name="please_wait">Please Wait...</string>
+
+</resources>
